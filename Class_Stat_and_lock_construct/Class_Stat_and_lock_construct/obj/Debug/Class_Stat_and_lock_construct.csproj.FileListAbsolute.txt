@@ -1,0 +1,15 @@
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Class_Stat_and_lock_construct\Class_Stat_and_lock_construct\bin\Debug\Class_Stat_and_lock_construct.exe.config
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Class_Stat_and_lock_construct\Class_Stat_and_lock_construct\bin\Debug\Class_Stat_and_lock_construct.exe
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Class_Stat_and_lock_construct\Class_Stat_and_lock_construct\bin\Debug\Class_Stat_and_lock_construct.pdb
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Class_Stat_and_lock_construct\Class_Stat_and_lock_construct\obj\Debug\Class_Stat_and_lock_construct.csprojAssemblyReference.cache
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Class_Stat_and_lock_construct\Class_Stat_and_lock_construct\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Class_Stat_and_lock_construct\Class_Stat_and_lock_construct\obj\Debug\App.g.cs
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Class_Stat_and_lock_construct\Class_Stat_and_lock_construct\obj\Debug\Class_Stat_and_lock_construct_MarkupCompile.cache
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Class_Stat_and_lock_construct\Class_Stat_and_lock_construct\obj\Debug\Class_Stat_and_lock_construct_MarkupCompile.lref
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Class_Stat_and_lock_construct\Class_Stat_and_lock_construct\obj\Debug\MainWindow.baml
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Class_Stat_and_lock_construct\Class_Stat_and_lock_construct\obj\Debug\Class_Stat_and_lock_construct.g.resources
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Class_Stat_and_lock_construct\Class_Stat_and_lock_construct\obj\Debug\Class_Stat_and_lock_construct.Properties.Resources.resources
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Class_Stat_and_lock_construct\Class_Stat_and_lock_construct\obj\Debug\Class_Stat_and_lock_construct.csproj.GenerateResource.cache
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Class_Stat_and_lock_construct\Class_Stat_and_lock_construct\obj\Debug\Class_Stat_and_lock_construct.csproj.CoreCompileInputs.cache
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Class_Stat_and_lock_construct\Class_Stat_and_lock_construct\obj\Debug\Class_Stat_and_lock_construct.exe
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Class_Stat_and_lock_construct\Class_Stat_and_lock_construct\obj\Debug\Class_Stat_and_lock_construct.pdb
