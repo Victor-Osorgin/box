@@ -1,0 +1,10 @@
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Primer_App\Primer_App\bin\Debug\Primer_App.exe.config
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Primer_App\Primer_App\bin\Debug\Primer_App.exe
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Primer_App\Primer_App\bin\Debug\Primer_App.pdb
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Primer_App\Primer_App\obj\Debug\Primer_App.csprojAssemblyReference.cache
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Primer_App\Primer_App\obj\Debug\Primer_App.Form1.resources
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Primer_App\Primer_App\obj\Debug\Primer_App.Properties.Resources.resources
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Primer_App\Primer_App\obj\Debug\Primer_App.csproj.GenerateResource.cache
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Primer_App\Primer_App\obj\Debug\Primer_App.csproj.CoreCompileInputs.cache
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Primer_App\Primer_App\obj\Debug\Primer_App.exe
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\Primer_App\Primer_App\obj\Debug\Primer_App.pdb
