@@ -1,0 +1,11 @@
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\FormLogin\FormLogin\obj\Debug\FormLogin.csprojAssemblyReference.cache
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\FormLogin\FormLogin\obj\Debug\FormLogin.Form1.resources
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\FormLogin\FormLogin\obj\Debug\FormLogin.Form2.resources
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\FormLogin\FormLogin\obj\Debug\FormLogin.Properties.Resources.resources
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\FormLogin\FormLogin\obj\Debug\FormLogin.csproj.GenerateResource.cache
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\FormLogin\FormLogin\obj\Debug\FormLogin.csproj.CoreCompileInputs.cache
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\FormLogin\FormLogin\bin\Debug\FormLogin.exe.config
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\FormLogin\FormLogin\bin\Debug\FormLogin.exe
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\FormLogin\FormLogin\bin\Debug\FormLogin.pdb
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\FormLogin\FormLogin\obj\Debug\FormLogin.exe
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\FormLogin\FormLogin\obj\Debug\FormLogin.pdb
