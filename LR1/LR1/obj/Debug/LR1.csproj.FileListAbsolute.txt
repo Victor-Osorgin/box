@@ -1,0 +1,5 @@
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\LR1\LR1\obj\Debug\LR1.csprojAssemblyReference.cache
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\LR1\LR1\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\LR1\LR1\obj\Debug\App.g.cs
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\LR1\LR1\obj\Debug\LR1_MarkupCompile.cache
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\LR1\LR1\obj\Debug\LR1_MarkupCompile.lref
