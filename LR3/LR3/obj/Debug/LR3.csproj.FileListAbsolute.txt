@@ -1,0 +1,10 @@
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\LR3\LR3\bin\Debug\LR3.exe.config
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\LR3\LR3\bin\Debug\LR3.exe
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\LR3\LR3\bin\Debug\LR3.pdb
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\LR3\LR3\obj\Debug\LR3.csprojAssemblyReference.cache
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\LR3\LR3\obj\Debug\LR3.Properties.Resources.resources
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\LR3\LR3\obj\Debug\LR3.csproj.GenerateResource.cache
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\LR3\LR3\obj\Debug\LR3.csproj.CoreCompileInputs.cache
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\LR3\LR3\obj\Debug\LR3.exe
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\LR3\LR3\obj\Debug\LR3.pdb
+C:\Users\Администратор-1\source\repos\Victor-Osorgin\box\LR3\LR3\obj\Debug\LR3.Form1.resources
